@@ -105,3 +105,7 @@ venv.bak/
 
 #
 *.pem
+*.pid
+*.bak
+*.dir
+*.dat
